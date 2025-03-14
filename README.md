@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Isaac</h1>
 
-<h3 align="center">A passionate Laravel dev from Lagos, Nigeria</h3>
+<h3 align="center">A passionate dev from Lagos, Nigeria</h3>
 <br>
 
 - 🔭 I’m currently working on [Virtual Top up App](https://github.com/isaacgabriel/ultra-vtu) and I'm open for hiring
-
+- Enjoyed working on Go/Golang
 - 🌱 ** TALL (TailwindCSS, AlpineJS, Laravel, Livewire) Stack ** is my favorite
 - 👯 I’m looking to collaborate on **Any Laravel Project Development**
 - 👨‍💻 All of my projects are available at [https://github.com/isaacjuwon](https://github.com/isaacjuwon)
@@ -15,6 +15,7 @@
 ### I can help you out with
 - Laravel Web Development
 - Laravel API Development
+- Go Api Development
 - TALL Stack Development
 - Filament Admin Development
 - Web Design
